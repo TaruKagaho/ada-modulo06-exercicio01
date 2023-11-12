@@ -1,0 +1,19 @@
+
+J
+java:S54116"(Use a primitive boolean expression here.(÷ˆ³şÿÿÿÿ8‹Ÿ–¤¼1
+J
+java:S5411>"(Use a primitive boolean expression here.(´¢ìşÿÿÿÿ8¯Ã¦ª¼1
+s
+java:S1206¡"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8ŸŸ–¤¼1
+I
+java:S11256"'Remove the unnecessary boolean literal.(÷ˆ³şÿÿÿÿ8¦Ÿ–¤¼1
+G	java:S1067"+Replace this use of System.out by a logger.(¿ä·á8¨Ÿ–¤¼1
+I
+java:S1125>"'Remove the unnecessary boolean literal.(´¢ìşÿÿÿÿ8ÈÃ¦ª¼1
+L	java:S106?"+Replace this use of System.out by a logger.(ÔĞæÔüÿÿÿÿ8ÊÃ¦ª¼1
+X	java:S125O"<This block of commented-out lines of code should be removed.(£ã£™8¬Ÿ–¤¼1
+X	java:S125U"<This block of commented-out lines of code should be removed.(×¬Ôù8®Ÿ–¤¼1
+X	java:S125b"<This block of commented-out lines of code should be removed.(£ã£™8±Ÿ–¤¼1
+X	java:S125h"<This block of commented-out lines of code should be removed.(×¬Ôù8ëÿÚ¤¼1
+]	java:S125l"<This block of commented-out lines of code should be removed.(ÌÊàùúÿÿÿÿ8úºİ¤¼1
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(Ñƒüğ8É×ù¦¼1
